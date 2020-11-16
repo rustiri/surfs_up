@@ -21,8 +21,10 @@ Based on the analysis, there are three key differences in weather between June a
 One each additional query to gather more weather data for the months of June and December for precipitation analysis. These additional queries may provide insight into the temperature differences revealed in the initial queries.
 
 June Precipitation
+
 ![alt text](Resources/june_prcp.png)
 
 December Precipitation
+
 ![alt text](Resources/december_prcp.png)
 
