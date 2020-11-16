@@ -14,7 +14,7 @@ To analyze precipitation levels and show the cold, hard, weather data with the f
 Based on the analysis, there are three key differences in weather between June and December:
 * There is an 8 degree difference in the minimum.
 * A difference of 3-4 degrees on all measurements except for the maximum
-*The maximum range is only 2 between the two months
+* The maximum range is only 2 between the two months
 
 
 ## Summary
